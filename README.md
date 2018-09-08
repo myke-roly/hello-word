@@ -1,2 +1,2 @@
-# hello-word
-let's go...
+var hi = "hello world";
+console.log(hi);
