@@ -1,2 +1,2 @@
-var hi = "hello world";
-console.log(hi);
+"Hello World"
+lest goo!!!
